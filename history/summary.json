@@ -40,19 +40,19 @@
     "url": "https://michi.land",
     "icon": "https://favicons.githubusercontent.com/michi.land",
     "slug": "michi-land",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 8553,
-    "timeWeek": 2387,
-    "timeMonth": 1430,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 1075,
+    "timeDay": 10063,
+    "timeWeek": 3575,
+    "timeMonth": 1794,
+    "timeYear": 1075,
     "dailyMinutesDown": {
-      "2021-03-09": 0
+      "2021-03-09": 29
     }
   },
   {
