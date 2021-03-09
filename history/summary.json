@@ -40,7 +40,7 @@
     "url": "https://michi.land",
     "icon": "https://favicons.githubusercontent.com/michi.land",
     "slug": "michi-land",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2387,
     "timeMonth": 1430,
     "timeYear": 871,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-09": 0
+    }
   },
   {
     "name": "Echo Artsy",
