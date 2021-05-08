@@ -1,7 +1,7 @@
 url: https://michi.land
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2021-05-07T23:24:26.637Z
+status: down
+code: 502
+responseTime: 3260
+lastUpdated: 2021-05-08T09:25:03.385Z
 startTime: Fri Jan 15 2021 22:25:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
